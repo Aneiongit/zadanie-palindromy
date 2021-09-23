@@ -1,1 +1,1 @@
-Funkcja sprawdzająca czy słowo jest palindromem, zwraca True/False
+Funkcja sprawdzająca czy słowo jest palindromem, zwraca wartość boolean.
