@@ -1,5 +1,7 @@
 def palindrome(word):
-    if str(word) == str(word)[::-1]:
-        print(True)
-    else:
-        print(False
+    word = word.lower()
+    return word == word.lower()[::-1]
+
+
+x = palindrome('Anna')
+print(x)
